@@ -115,7 +115,7 @@ classDiagram
 - UI icons and resources are located in `Code/ui/utils/icons/`.
 
 ## Authors
-- [Your Name]
+- Ahmed Ragab Moslim
 
 ## License
 This project is for educational purposes. 
